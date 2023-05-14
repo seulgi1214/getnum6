@@ -25,6 +25,6 @@ button.onclick = function() {
     });
   
     // 결과를 화면에 표시하고 결과 창을 보이게 합니다.
-    resultDiv.innerHTML = '생성된 숫자: ' + result.join(', ');
+    resultDiv.innerHTML = result.join(', ');
     resultDiv.classList.remove('d-none');
 };

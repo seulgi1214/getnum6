@@ -7,4 +7,19 @@
 
 * {
   font-family: 'omyu_pretty', Arial, sans-serif;
+  font-size: 1rem;
 }
+
+
+.text-center .title {
+  font-size: 3rem;
+}
+
+.text-center #generate {
+  font-size: 2rem;
+}
+
+.text-center #result {
+  font-size: 2rem;
+}
+
